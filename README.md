@@ -4,7 +4,7 @@
 
 Hello there, I'm Kaan Sinar, a Computer Science student fascinated by free and open source software.
 
-[![Spotify](https://ksinar.vercel.app/api/spotify)](https://open.spotify.com/user/sr5pakgv4km099mktvql5qc0q)
+[![Spotify](https://novatorem-one-mocha.vercel.app/api/spotify)](https://open.spotify.com/user/sr5pakgv4km099mktvql5qc0q)
 
 
 ![Kaan's github stats](https://github-readme-stats.vercel.app/api?username=ksinar&show_icons=true)
