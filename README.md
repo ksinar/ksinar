@@ -1,6 +1,6 @@
 ### Hi there, I'm [Kaan!](https://kurenet.com) 👋 
 
-![](https://komarev.com/ghpvc/?username=ksinar&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=ksinar&color=blue)
 
 Hello there, I'm Kaan Sinar, a Computer Science student fascinated by free and open source software.
 
